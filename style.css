@@ -1,0 +1,25 @@
+.Web{
+    color:blue;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 26px;
+    line-height: 31px;
+    line-height: 00.03em;
+}
+.f{
+    font-family:'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+}
+body{
+    font-family:'Roboto';
+    font-size: 18px;
+    letter-spacing: 3px;
+    line-height: 36px;
+    font-style: normal;
+    font-weight: 700;
+}
